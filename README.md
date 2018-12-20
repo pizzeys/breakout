@@ -17,3 +17,7 @@ Run the game with ./bin/breakout
 # Contribute
 
 Want to contribute to it? Go for it! Submit a pull request.
+
+# Kittens
+
+I hate kittens and kill them at any opportunity.
